@@ -32,8 +32,8 @@
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
   <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb"/>
-  <img src="https://icon-library.com/7029866.html"/>
-  <img src="https://icon-library.com/icon/postgresql-icon-5.html.html"/>
+  <img src="[https://icon-library.com/7029866.html](https://icon-library.com/7029866.html> Cs Go, Go, Coffee To Go, Pokemon Go, Teen Titans Go # 793075)"/>
+  <img src="[https://icon-library.com/icon/postgresql-icon-5.html.html](https://icon-library.com/icon/postgresql-icon-5.html.html>Postgresql Icon # 346612)"/>
   <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/></a>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/>
