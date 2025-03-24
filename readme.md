@@ -21,18 +21,18 @@
 ## 🚀 Languages and Tools  
 
 <p align="left">
-  <img src="https://img.icons8.com/external-flatarticons-lineal-color-flatarticons/64/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake"/>
-  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/64/000000/snowflake.png" alt="Snowflake"/>
+  <img src="https://img.icons8.com/color/64/000000/apache-spark.png" alt="PySpark"/>
+  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/64/000000/kafka.png" alt="Kafka"/>
+  <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🙋‍ Connect with me  
 
 <p align="center">
-<a href="mailto:12131501.edu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rajendrabisoi23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://in.linkedin.com/in/rajendra-bisoi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/coderRaj07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://twitter.com/RajendraBisoi13" target="_blank"><img src="https://img.shields.io/badge/RajendraBisoi13-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
