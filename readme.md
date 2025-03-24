@@ -23,7 +23,6 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://icons8.com/icon/uJM6fQYqDaZK/nestjs" alt="Nest.js"/>
   <img src="https://img.icons8.com/color/48/typescript.png" alt="Typescript"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/apache-spark.png" alt="PySpark"/>
