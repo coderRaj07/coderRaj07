@@ -1,65 +1,75 @@
 <h1 align="center">Rajendra Bisoi</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+%26+Data+Engineer"></h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+%26+Data+Engineer;Transforming+Data+into+Scalable+Solutions">
+</h3>
 
-* 🌍  I'm based in Odisha, India  
-* 🖥️  See my portfolio at [rajendra-portfolio](bit.ly/Blockchain_Portfolio_)  
-* 🤝  Former Backend Intern at TraceX Technologies  
-* 🔹 Open to collaboration in **Backend Development, Data Engineering, PySpark, Snowflake, SQL, AWS, Kafka, and Blockchain**  
+🌍 **Based in:** Odisha, India  
+🖥️ **Portfolio:** [rajendra-portfolio](bit.ly/Blockchain_Portfolio_)  
+🤝 **Backend Engineer:** Metaverse Ventures  
+🚀 **Open to Collaboration in:** Backend Development, Data Engineering, Blockchain  
 
 ---
 
-## 🔥 Streak stats  
+## 🔥 Streak Stats
 
 <p align="center">
   <a href="https://github.com/coderRaj07">
-    <img alt="coderRaj07's streak" src="https://github-readme-streak-stats.herokuapp.com?user=coderRaj07&theme=great-gatsby&hide_border=true&fire=EB5454&sideNums=E8EBDF&currStreakNum=DFEB65"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=coderRaj07&theme=great-gatsby&hide_border=true&fire=EB5454&sideNums=E8EBDF&currStreakNum=DFEB65" alt="Rajendra's Streak Stats"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Languages and Tools  
+## 🚀 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/64/000000/snowflake.png" alt="Snowflake"/>
-  <img src="https://img.icons8.com/color/64/000000/apache-spark.png" alt="PySpark"/>
-  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/64/000000/kafka.png" alt="Kafka"/>
-  <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
+  <img src="https://img.icons8.com/color/48/apache-kafka.png" alt="Kafka"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<details open=""> 
+<details open>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
     <a href="https://github.com/coderRaj07">
-      <img align="center" alt="coderRaj07's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=coderRaj07&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/?username=coderRaj07&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px" alt="Rajendra's GitHub Stats"/>
     </a>
     <a href="https://github.com/coderRaj07">
-      <img align="center" height="192px" alt="coderRaj07's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderRaj07&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderRaj07&langs_count=10&layout=compact&theme=highcontrast&hide_border=true" height="192px" alt="Rajendra's Top Languages"/>
     </a>
-  <br/>
   </p>
 </details>
 
 ---
 
-## 🙋‍ Connect with me  
+## 📬 Connect with Me
 
 <p align="center">
-<a href="mailto:rajendrabisoi23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://in.linkedin.com/in/rajendra-bisoi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/coderRaj07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/RajendraBisoi13" target="_blank"><img src="https://img.shields.io/badge/RajendraBisoi13-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:12131501.edu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://in.linkedin.com/in/rajendra-bisoi" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/coderRaj07">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/RajendraBisoi13" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/raj131501" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
