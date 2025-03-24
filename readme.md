@@ -1,6 +1,6 @@
 <h1 align="center">Rajendra Bisoi</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+%26+Data+Engineer;Transforming+Data+into+Scalable+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+%26+Data+Engineer;Transforming+Data+into+Scalable+Solutions&font=Arial&size=20">
 </h3>
 
 🌍 **Based in:** Odisha, India  
