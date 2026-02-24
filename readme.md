@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rajendra Bisoi</h1>
 
 <h3 align="center">
-Backend Engineer • Distributed Systems • AI Systems
+Software Engineer • Distributed Systems • AI Systems
 </h3>
 
 <p align="center">
