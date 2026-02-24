@@ -1,45 +1,40 @@
-<!-- ===== DYNAMIC HEADER ===== -->
+<!-- ===== YC POLISHED HEADER ===== -->
 
-<br/>
-
-<h1 align="center" style="font-weight:600;">
-  Rajendra Bisoi
-</h1>
-
-<p align="center" style="font-size:16px;">
-  Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E2E2E,100:4B4B4B&height=100&section=header&text=Rajendra%20Bisoi&fontSize=34&fontColor=ffffff"/>
 </p>
 
-<p align="center" style="color: #555;">
-  Building scalable software infrastructure & AI-native data platforms
+<p align="center">
+  <strong>Software Engineer</strong> building distributed systems & AI-native infrastructure
+</p>
+
+<p align="center">
+  I design systems that scale under load and stay correct under concurrency.
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="mailto:rajendrabisoi23@gmail.com">
-    <span>
-      <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="26"/>
-    </span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/rajendra-bisoi">
-    <span>
-      <img src="https://img.icons8.com/color/48/linkedin.png" height="26"/>
-    </span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/coderRaj07">
-    <span>
-      <img src="https://img.icons8.com/ios-glyphs/48/github.png" height="26"/>
-    </span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/coderraj07/">
-    <span>
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="26"/>
-    </span>
-  </a>
+
+<a href="mailto:rajendrabisoi23@gmail.com" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="22"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/rajendra-bisoi" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="22"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/coderRaj07" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="22"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/coderraj07/" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="22"/>
+</a>
+
 </p>
 
 <br/>
