@@ -1,13 +1,15 @@
-<!-- ===== CLEAN HERO ===== -->
+<!-- ================= YC STYLE HERO ================= -->
 
-<h1 align="center">Rajendra Bisoi</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:222222&height=120&section=header&text=Rajendra%20Bisoi&fontSize=36&fontColor=ffffff"/>
+</p>
 
 <p align="center">
   <strong>Backend Engineer</strong> • Distributed Systems • AI Systems
 </p>
 
 <p align="center">
-  Architecting scalable systems & intelligent data platforms
+  Building scalable backend infrastructure & AI-native data platforms
 </p>
 
 <p align="center">
@@ -28,116 +30,126 @@
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderRaj07&style=flat-square"/>
+</p>
 
 ---
 
-## 🧠 About
+## 🧠 What I Build
 
-I build **production-grade backend systems** and **AI-powered data pipelines** focused on:
+I design and ship **production-grade backend systems** focused on:
 
-- Concurrency-safe architectures  
-- Idempotent APIs & transactional integrity  
+- High-concurrency distributed architectures  
+- Idempotent APIs & transactional guarantees  
 - Event-driven AWS infrastructure  
-- High-scale database design  
-- LLM + RAG intelligent systems  
+- Database performance at scale  
+- AI-native pipelines (LLM + RAG + document intelligence)  
+
+I care about **correctness, scalability, and business impact**.
 
 ---
 
-## 🚀 Featured Systems
+# 🚀 Products & Systems
 
-### 1️⃣ Scalable AWS Ingestion Pipeline
+---
 
-**Architecture**  
-S3 → Lambda → SQS → Lambda → PostgreSQL  
+## 🔹 Scalable AWS Ingestion Pipeline
 
-**Scale**  
-10,000+ async jobs/day  
+**S3 → Lambda → SQS → Lambda → PostgreSQL**
 
-**Highlights**
-- Event-driven system design  
-- Idempotent job processing  
-- Queue-based failure isolation  
-- Horizontal scaling roadmap (Step Functions + Glue)
+**Scale:** 10,000+ async jobs/day  
 
-[📖 Blog](https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4) •
+Built a fault-tolerant ingestion system using queue-based isolation and idempotent processing.
+
+**Key Contributions**
+- Designed event-driven architecture  
+- Enforced database-level safeguards  
+- Eliminated duplicate processing  
+- Roadmap for 10M+ rows via Step Functions + Glue  
+
+[📖 Architecture Blog](https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4) •
 [🎥 Demo](https://www.youtube.com/watch?v=Xrai-ccIzOQ)
 
 ---
 
-### 2️⃣ CyberIntel – LLM PDF Intelligence Engine
+## 🔹 CyberIntel – AI PDF Intelligence Platform
 
-**Tech Stack**  
-FastAPI • Celery • PostgreSQL • LLM Orchestration  
+Extracts structured quantitative metrics from complex PDFs (tables + vector charts).
 
-**Highlights**
-- Layout-aware PDF parsing  
+**Stack**
+FastAPI • Celery • PostgreSQL • Layout Engine • LLM Orchestration  
+
+**Capabilities**
+- Layout-aware parsing engine  
 - Structured metric extraction  
-- Confidence scoring engine  
+- Confidence scoring system  
 - Source-of-truth tagging  
 
-[GitHub](https://github.com/coderRaj07/cyber_intel)
+[🔗 GitHub](https://github.com/coderRaj07/cyber_intel) •
+[🎥 Demo](https://www.loom.com/share/60b766184301455ba6030e241aa2b318)
 
 ---
 
-### 3️⃣ SignalLens – AI Competitive Monitoring
+## 🔹 SignalLens – AI Competitive Monitoring
 
-**Tech Stack**  
-React.js, FastAPI • PostgreSQL • Diff Engine • AI Summarization  
+Tracks website changes and generates AI summaries.
 
-**Highlights**
-- Website snapshot versioning  
+**Stack**
+React • FastAPI • PostgreSQL • Diff Engine  
+
+**Features**
+- Versioned snapshots  
 - Intelligent diff detection  
-- Automated change summaries  
+- AI-generated change summaries  
 
-[Live](https://signal-lens-frontend.vercel.app/) •
-[GitHub](https://github.com/coderRaj07/signal_lens)
-
----
-
-### 4️⃣ Dataseeder – AI CLI Data Generator
-
-**Tech Stack**  
-Python • LLM APIs • CLI Automation  
-
-**Highlights**
-- Schema-driven dataset generation  
-- AI-assisted developer tooling  
-- Workflow automation  
-
-[GitHub](https://github.com/coderRaj07/LLM-Powered-Cli-Tool)
+[🌐 Live](https://signal-lens-frontend.vercel.app/) •
+[🔗 GitHub](https://github.com/coderRaj07/signal_lens)
 
 ---
 
-### 5️⃣ Payment System Microservices
+## 🔹 Dataseeder – AI CLI Data Generator
 
-**Tech Stack**  
+Developer productivity tool for schema-driven dataset generation.
+
+**Stack**
+Python • LLM APIs • CLI automation  
+
+[🔗 GitHub](https://github.com/coderRaj07/LLM-Powered-Cli-Tool)
+
+---
+
+## 🔹 Payment System Microservices
+
+ACID-safe distributed payment architecture.
+
+**Stack**
 Java • Spring Boot • PostgreSQL  
 
-**Highlights**
-- ACID-compliant transactions  
+- Transaction consistency  
 - Service isolation  
-- Modular microservice design  
+- Modular design  
 
-[GitHub](https://github.com/coderRaj07/payment-system-microservice)
+[🔗 GitHub](https://github.com/coderRaj07/payment-system-microservice)
 
 ---
 
-### 6️⃣ Social Media Scalable Backend
+## 🔹 Social Media Scalable Backend
 
-**Tech Stack**  
+High-read performance backend with Redis caching layer.
+
+**Stack**
 Node.js • PostgreSQL • Redis  
 
-**Highlights**
-- Optimized feed queries  
-- Redis caching layer  
-- High-read performance architecture  
+- Feed query optimization  
+- Scalable schema design  
+- Cache-first architecture  
 
-[GitHub](https://github.com/coderRaj07/social_media_backend)
+[🔗 GitHub](https://github.com/coderRaj07/social_media_backend)
 
 ---
 
-## ⚙️ Core Stack
+# ⚙️ Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,spring,postgres,mongodb,redis,mysql,docker,aws" />
@@ -145,11 +157,15 @@ Node.js • PostgreSQL • Redis
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderRaj07&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&hide_border=true&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderRaj07&hide_border=true&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderRaj07&theme=minimal&hide_border=true"/>
 </p>
 
 ---
@@ -157,4 +173,4 @@ Node.js • PostgreSQL • Redis
 ## 🎯 Open To
 
 Backend Engineering • Distributed Systems • AI Infrastructure  
-Remote • UAE • High-Scale Product Teams
+Remote-first teams • UAE-based product companies
