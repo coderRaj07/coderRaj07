@@ -1,180 +1,160 @@
-<!-- ======================= -->
-<!-- HERO SECTION -->
-<!-- ======================= -->
+<!-- ================= HERO ================= -->
 
 <h1 align="center">Rajendra Bisoi</h1>
 
 <p align="center">
-  Backend Engineer • Distributed Systems • AI Systems
+  <strong>Backend Engineer</strong> • Distributed Systems • AI Systems
 </p>
 
 <p align="center">
-  Building scalable backend systems & intelligent AI pipelines
+  Architecting scalable backend systems & intelligent AI pipelines
 </p>
 
 <p align="center">
   <a href="mailto:rajendrabisoi23@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="26"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rajendra-bisoi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/coderRaj07">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/coderraj07/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="26"/>
   </a>
 </p>
 
----
-
-# 🚀 About Me
-
-- 🏗️ Building **production-grade distributed systems**
-- ⚡ Solving race conditions & high concurrency issues
-- 🔐 Designing idempotent APIs & transactional safeguards
-- ☁️ Architecting event-driven systems on AWS
-- 🤖 Developing AI pipelines using LLM + RAG systems
-- 🎯 Targeting backend & AI infrastructure roles (Remote / UAE)
+<br/>
 
 ---
 
-# 🏗️ Featured Projects
+## 🚀 About
+
+- 🏗️ Production-grade distributed systems  
+- ⚡ Concurrency-safe architectures & idempotent APIs  
+- 🔐 Transactional integrity & database-level safeguards  
+- ☁️ Event-driven AWS systems  
+- 🤖 LLM-powered RAG & document intelligence pipelines  
+- 🎯 Open to Backend / AI Infra roles (Remote / UAE)
 
 ---
 
-## 1️⃣ Scalable AWS Ingestion Pipeline
+## 🏗️ Featured Projects
+
+### Scalable AWS Ingestion Pipeline
 
 **Architecture:** S3 → Lambda → SQS → Lambda → PostgreSQL  
 **Scale:** 10,000+ async jobs/day  
 
-- Event-driven architecture  
-- Idempotent processing  
+- Event-driven design  
+- Idempotent job processing  
 - Queue-based failure isolation  
 - Horizontal scaling roadmap  
 
-📖 Blog:  
-https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4  
-
-🎥 Demo:  
-https://www.youtube.com/watch?v=Xrai-ccIzOQ  
+[📖 Blog](https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4) •
+[🎥 Demo](https://www.youtube.com/watch?v=Xrai-ccIzOQ)
 
 ---
 
-## 2️⃣ CyberIntel – LLM PDF Intelligence System
+### CyberIntel – LLM PDF Intelligence System
 
-- Extracts structured metrics from complex PDFs  
-- Layout-aware parsing engine  
-- Confidence scoring  
+- Layout-aware PDF parsing  
+- Structured metric extraction  
+- Confidence scoring engine  
 - Source-of-truth tagging  
-- LLM-powered structured extraction  
 
-🔗 https://github.com/coderRaj07/cyber_intel  
-🎥 https://www.loom.com/share/60b766184301455ba6030e241aa2b318  
-
----
-
-## 3️⃣ SignalLens – AI Competitive Monitoring
-
-- Website version snapshots  
-- Diff detection  
-- AI-generated summaries  
-- Competitive intelligence automation  
-
-🌐 https://signal-lens-frontend.vercel.app/  
-🔗 https://github.com/coderRaj07/signal_lens  
+[🔗 GitHub](https://github.com/coderRaj07/cyber_intel) •
+[🎥 Demo](https://www.loom.com/share/60b766184301455ba6030e241aa2b318)
 
 ---
 
-## 4️⃣ Dataseeder – AI CLI Data Generator
+### SignalLens – AI Competitive Monitoring
+
+- Website snapshot versioning  
+- Intelligent diff detection  
+- AI-generated change summaries  
+
+[🌐 Live](https://signal-lens-frontend.vercel.app/) •
+[🔗 GitHub](https://github.com/coderRaj07/signal_lens)
+
+---
+
+### Dataseeder – AI CLI Data Generator
 
 - Schema-driven dataset generation  
-- AI-assisted developer productivity tool  
 - LLM workflow automation  
+- Developer productivity tooling  
 
-🔗 https://github.com/coderRaj07/LLM-Powered-Cli-Tool  
-🎥 https://www.youtube.com/watch?v=kfNYCkIDPiI  
+[🔗 GitHub](https://github.com/coderRaj07/LLM-Powered-Cli-Tool) •
+[🎥 Demo](https://www.youtube.com/watch?v=kfNYCkIDPiI)
 
 ---
 
-## 5️⃣ Payment System Microservices
+### Payment System Microservices
 
-**Tech:** Java, Spring Boot, PostgreSQL  
+**Tech:** Java • Spring Boot • PostgreSQL  
 
-- Microservice-based payment architecture  
 - ACID-safe transaction handling  
+- Modular microservice architecture  
 - Service isolation  
-- Production-style modular backend  
 
-🔗 https://github.com/coderRaj07/payment-system-microservice  
+[🔗 GitHub](https://github.com/coderRaj07/payment-system-microservice)
 
 ---
 
-## 6️⃣ Social Media Scalable Backend
+### Social Media Scalable Backend
 
-**Tech:** Node.js, PostgreSQL, Redis  
+**Tech:** Node.js • PostgreSQL • Redis  
 
-- Optimized feed queries  
+- Feed optimization  
 - Redis caching layer  
-- Scalable DB schema  
-- Improved read performance  
+- High-read performance design  
 
-🔗 https://github.com/coderRaj07/social_media_backend  
+[🔗 GitHub](https://github.com/coderRaj07/social_media_backend)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Backend
+### Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> <b>Python</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/> <b>FastAPI</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> <b>Node.js</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="25"/> <b>NestJS</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> <b>Spring Boot</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="22"/> FastAPI &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22"/> Node.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="22"/> NestJS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22"/> Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22"/> Spring Boot
 </p>
 
----
-
-## Databases
+### Databases
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> <b>PostgreSQL</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> <b>MongoDB</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="25"/> <b>Redis</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> <b>MySQL</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22"/> PostgreSQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="22"/> Redis &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> MySQL
 </p>
 
----
-
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> <b>Docker</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> <b>GitHub CI/CD</b> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> <b>AWS</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> GitHub CI/CD &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="22"/> AWS
 </p>
+
+### AI Systems
+
+LangChain • Pinecone • RAG Architectures • OCR Pipelines • LLM Orchestration
 
 ---
 
-## AI & Data Systems
-
-<p>
-  🤖 <b>LangChain</b> &nbsp;&nbsp;
-  🧠 <b>RAG Architectures</b> &nbsp;&nbsp;
-  📊 <b>Pinecone</b> &nbsp;&nbsp;
-  📄 <b>OCR Pipelines</b> &nbsp;&nbsp;
-  🔄 <b>LLM Orchestration</b>
-</p>
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -183,23 +163,16 @@ https://www.youtube.com/watch?v=Xrai-ccIzOQ
 
 ---
 
-# 🧠 Engineering Philosophy
+## 🧠 Engineering Philosophy
 
-> Understand business before writing code  
-> Design for concurrency from day one  
-> Avoid overengineering  
-> Debug methodically  
 > Build simple systems that scale  
+> Design for concurrency from day one  
+> Debug methodically, not emotionally  
+> Understand business before writing code  
 
 ---
 
-# 🎯 Open To
+## 🎯 Open To
 
 Backend Engineering • Distributed Systems • AI Infrastructure • Data Engineering  
-Remote / UAE / High-Scale Product Teams  
-
----
-
-<p align="center">
-⭐ If you build scalable systems, let's connect.
-</p>
+Remote / UAE • High-Scale Product Teams
