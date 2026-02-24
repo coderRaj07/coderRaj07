@@ -24,11 +24,6 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/coderRaj07" style="text-decoration:none;">
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" height="26"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/u/coderraj07/" style="text-decoration:none;">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="26"/>
 </a>
