@@ -1,76 +1,179 @@
-<h1 align="center">Rajendra Bisoi</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+%26+Data+Engineer;Transforming+Data+into+Scalable+Solutions&font=Arial&size=20">
-</h3>
+---
 
-🌍 **Based in:** Odisha, India  
-🖥️ **Portfolio:** [rajendra-portfolio](bit.ly/Blockchain_Portfolio_)  
-🤝 **Backend Engineer:** Metaverse Ventures  
-🚀 **Open to Collaboration in:** Backend Development, Data Engineering, Blockchain  
+# 🚀 Rajendra Bisoi
+
+### Backend Software Engineer | Distributed Systems | AI Systems
+
+📍 Odisha, India
+📧 [rajendrabisoi23@gmail.com](mailto:rajendrabisoi23@gmail.com)
+📱 +91 7978460730
+🔗 [GitHub](https://github.com/coderRaj07) • [LinkedIn](https://linkedin.com/in/rajendra-bisoi) • [LeetCode](https://leetcode.com/u/coderraj07/)
 
 ---
 
-## 🔥 Streak Stats
+## 👨‍💻 Professional Summary
+
+Backend Software Engineer building **scalable, production-grade distributed systems** using:
+
+**Python • NodeJS • Java • PostgreSQL • MongoDB • Redis • AWS (S3, SQS, Lambda, RDS, Step Functions)**
+
+In high-concurrency production environments, I have:
+
+* Resolved critical **race conditions (double booking / double billing)**
+* Designed **idempotent APIs**
+* Implemented **transactional safeguards**
+* Enforced **database-level constraints**
+* Built fault-tolerant event-driven architectures
+
+I also build **AI-enabled systems** using:
+
+* LangChain-based RAG architectures
+* Pinecone vector databases
+* LLM orchestration pipelines
+* OCR-based document processing
+* Automation workflows over unstructured data
+
+---
+
+# 🏗️ Selected Work (Live + Code)
+
+---
+
+## 1️⃣ Scalable AWS Ingestion Pipeline
+
+**Architecture:** S3 → Lambda → SQS → Lambda → PostgreSQL
+**Scale:** 10,000+ async jobs/day
+
+* Event-driven architecture
+* Idempotent job processing
+* Failure isolation using queue-based design
+* Horizontal scaling roadmap (Step Functions + Glue)
+
+📖 Blog:
+[https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4](https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4)
+
+🎥 Demo:
+[https://www.youtube.com/watch?v=Xrai-ccIzOQ](https://www.youtube.com/watch?v=Xrai-ccIzOQ)
+
+---
+
+## 2️⃣ CyberIntel – LLM-Based PDF Intelligence System
+
+* Extracts metrics from complex PDFs (tables + vector charts)
+* Layout-aware parsing engine
+* Confidence scoring
+* LLM-based structured extraction
+* Source-of-truth tagging
+
+🔗 GitHub:
+[https://github.com/coderRaj07/cyber_intel](https://github.com/coderRaj07/cyber_intel)
+
+🎥 Demo:
+[https://www.loom.com/share/60b766184301455ba6030e241aa2b318](https://www.loom.com/share/60b766184301455ba6030e241aa2b318)
+
+---
+
+## 3️⃣ SignalLens – AI Competitive Monitoring Tool
+
+* Website content monitoring
+* Versioned snapshots
+* Text diff detection
+* AI-generated change summaries
+
+🌐 Live:
+[https://signal-lens-frontend.vercel.app/](https://signal-lens-frontend.vercel.app/)
+
+💻 GitHub:
+[https://github.com/coderRaj07/signal_lens](https://github.com/coderRaj07/signal_lens)
+
+---
+
+## 4️⃣ Dataseeder – AI-Powered CLI Data Generator
+
+* Schema-driven AI dataset generation
+* Developer productivity CLI tool
+* LLM workflow automation
+
+💻 GitHub:
+[https://github.com/coderRaj07/LLM-Powered-Cli-Tool](https://github.com/coderRaj07/LLM-Powered-Cli-Tool)
+
+🎥 Demo:
+[https://www.youtube.com/watch?v=kfNYCkIDPiI](https://www.youtube.com/watch?v=kfNYCkIDPiI)
+
+---
+
+## 5️⃣ Payment System Microservices
+
+**Tech:** Java, Spring Boot, PostgreSQL
+
+* Designed microservice-based payment architecture
+* Implemented transaction handling & service isolation
+* Applied ACID guarantees for payment consistency
+* Built production-style modular backend
+
+🔗 GitHub:
+[https://github.com/coderRaj07/payment-system-microservice](https://github.com/coderRaj07/payment-system-microservice)
+
+---
+
+## 6️⃣ Social Media Scalable Backend
+
+**Tech:** Node.js, PostgreSQL, Redis
+
+* Optimized feed queries
+* Implemented Redis caching layer
+* Designed normalized & scalable DB schema
+* Improved read performance under high traffic
+
+🔗 GitHub:
+[https://github.com/coderRaj07/social_media_backend](https://github.com/coderRaj07/social_media_backend)
+
+---
+
+# 🛠️ Core Technical Stack
+
+### Backend
+
+Python (FastAPI) • NodeJS (NestJS) • Java (Spring Boot)
+
+### Databases
+
+PostgreSQL • MongoDB • Redis • MySQL
+
+### Cloud & Distributed Systems
+
+Docker, Github CI/CD, AWS S3 • SQS • Lambda • RDS • Step Functions
+
+### AI & Data Systems
+
+LangChain • Pinecone • RAG • OCR Pipelines • LLM Orchestration
+
+---
+
+# 🧠 Engineering Philosophy
+
+* Understand business before writing code
+* Design for concurrency from day one
+* Avoid overengineering
+* Debug methodically
+* Build simple systems that scale
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/coderRaj07">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=coderRaj07&theme=great-gatsby&hide_border=true&fire=EB5454&sideNums=E8EBDF&currStreakNum=DFEB65" alt="Rajendra's Streak Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderRaj07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Tech Stack & Tools
+# 🎯 Open To
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="Typescript"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/apache-spark.png" alt="PySpark"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/redis.png" alt="Redis"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
-</p>
+* Software Engineer
+* Distributed Systems Roles
+* AI Systems Engineering
+* Data Infrastructure Roles
 
 ---
-
-## 📊 GitHub Stats
-
-<details open>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/coderRaj07">
-      <img src="https://github-readme-stats.vercel.app/api/?username=coderRaj07&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px" alt="Rajendra's GitHub Stats"/>
-    </a>
-    <a href="https://github.com/coderRaj07">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderRaj07&langs_count=10&layout=compact&theme=highcontrast&hide_border=true" height="192px" alt="Rajendra's Top Languages"/>
-    </a>
-  </p>
-</details>
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:12131501.edu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://in.linkedin.com/in/rajendra-bisoi" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/coderRaj07">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/RajendraBisoi13" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/raj131501" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
