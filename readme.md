@@ -54,8 +54,24 @@ I care deeply about **correctness, scalability, and business impact.**
 ---
 ## ⚙️ Core Stack (Visual)
 
+## ⚙️ Core Stack (Visual)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,django,python,js,docker,redis,postgres,mongodb,aws" />
+</p>
+
+<p align="center">
+  <sub>
+    NodeJS&nbsp;&nbsp;&nbsp;
+    Django&nbsp;&nbsp;&nbsp;
+    Python&nbsp;&nbsp;&nbsp;
+    JavaScript&nbsp;&nbsp;&nbsp;
+    Docker&nbsp;&nbsp;&nbsp;
+    Redis&nbsp;&nbsp;&nbsp;
+    PostgreSQL&nbsp;&nbsp;&nbsp;
+    MongoDB&nbsp;&nbsp;&nbsp;
+    AWS
+  </sub>
 </p>
 
 ---
@@ -64,7 +80,6 @@ I care deeply about **correctness, scalability, and business impact.**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderRaj07&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
