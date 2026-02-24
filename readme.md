@@ -5,16 +5,16 @@
 <h1 align="center">Rajendra Bisoi</h1>
 
 <p align="center">
-Backend Engineer • Distributed Systems • AI Systems
+  Backend Engineer • Distributed Systems • AI Systems
 </p>
 
 <p align="center">
-Building scalable backend systems & intelligent AI pipelines.
+  Building scalable backend systems & intelligent AI pipelines
 </p>
 
 <p align="center">
   <a href="mailto:rajendrabisoi23@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rajendra-bisoi">
@@ -26,7 +26,7 @@ Building scalable backend systems & intelligent AI pipelines.
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/coderraj07/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28"/>
   </a>
 </p>
 
@@ -129,32 +129,49 @@ https://www.youtube.com/watch?v=Xrai-ccIzOQ
 
 # 🛠️ Tech Stack
 
-### Backend
+## Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-
----
-
-### Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> <b>Python</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/> <b>FastAPI</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> <b>Node.js</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="25"/> <b>NestJS</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> <b>Spring Boot</b>
+</p>
 
 ---
 
-### Cloud & DevOps
+## Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> <b>PostgreSQL</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> <b>MongoDB</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="25"/> <b>Redis</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> <b>MySQL</b>
+</p>
 
+---
+
+## Cloud & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> <b>Docker</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> <b>GitHub CI/CD</b> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> <b>AWS</b>
+</p>
+
+---
+
+## AI & Data Systems
+
+<p>
+  🤖 <b>LangChain</b> &nbsp;&nbsp;
+  🧠 <b>RAG Architectures</b> &nbsp;&nbsp;
+  📊 <b>Pinecone</b> &nbsp;&nbsp;
+  📄 <b>OCR Pipelines</b> &nbsp;&nbsp;
+  🔄 <b>LLM Orchestration</b>
+</p>
 ---
 
 # 📊 GitHub Analytics
