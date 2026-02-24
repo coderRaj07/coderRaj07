@@ -54,8 +54,6 @@ I care deeply about **correctness, scalability, and business impact.**
 ---
 ## ⚙️ Core Stack (Visual)
 
-## ⚙️ Core Stack (Visual)
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,django,python,js,docker,redis,postgres,mongodb,aws" />
 </p>
