@@ -9,24 +9,24 @@
 </p>
 
 <p align="center">
-  Building scalable backend infrastructure & AI-native data platforms
+  Building scalable Software infrastructure & AI-native data platforms
 </p>
 
 <p align="center">
   <a href="mailto:rajendrabisoi23@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="26" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="26"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rajendra-bisoi">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="26" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="26"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/coderRaj07">
-    <img src="https://skillicons.dev/icons?i=github" height="26" />
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" height="26"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/coderraj07/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="22"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="26"/>
   </a>
 </p>
 
