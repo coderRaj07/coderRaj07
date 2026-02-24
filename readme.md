@@ -1,12 +1,12 @@
-<!-- ========================= -->
-<!-- HEADER BANNER -->
-<!-- ========================= -->
+<!-- ======================= -->
+<!-- HERO SECTION -->
+<!-- ======================= -->
 
-<h1 align="center">Hi 👋, I'm Rajendra Bisoi</h1>
+<h1 align="center">Rajendra Bisoi</h1>
 
-<h3 align="center">
-Software Engineer • Distributed Systems • AI Systems
-</h3>
+<p align="center">
+Backend Engineer • Distributed Systems • AI Systems
+</p>
 
 <p align="center">
 Building scalable backend systems & intelligent AI pipelines.
@@ -14,13 +14,19 @@ Building scalable backend systems & intelligent AI pipelines.
 
 <p align="center">
   <a href="mailto:rajendrabisoi23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rajendra-bisoi">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/coderRaj07">
-    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/coderraj07/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
   </a>
 </p>
 
@@ -28,85 +34,126 @@ Building scalable backend systems & intelligent AI pipelines.
 
 # 🚀 About Me
 
-- 🔭 Building **production-grade distributed systems**
-- ⚡ Fixing race conditions before they happen
-- 🧠 Designing idempotent APIs & transactional safeguards
-- ☁️ Event-driven architectures on AWS
-- 🤖 AI pipelines using LLM + RAG systems
-- 🎯 Targeting high-scale backend & AI infra roles
+- 🏗️ Building **production-grade distributed systems**
+- ⚡ Solving race conditions & high concurrency issues
+- 🔐 Designing idempotent APIs & transactional safeguards
+- ☁️ Architecting event-driven systems on AWS
+- 🤖 Developing AI pipelines using LLM + RAG systems
+- 🎯 Targeting backend & AI infrastructure roles (Remote / UAE)
 
 ---
 
 # 🏗️ Featured Projects
 
-## 🔹 Scalable AWS Ingestion Pipeline
+---
 
-**S3 → Lambda → SQS → Lambda → PostgreSQL**
+## 1️⃣ Scalable AWS Ingestion Pipeline
 
-- 10,000+ async jobs/day
-- Idempotent job processing
-- Failure isolation via queue architecture
-- Designed for horizontal scaling
+**Architecture:** S3 → Lambda → SQS → Lambda → PostgreSQL  
+**Scale:** 10,000+ async jobs/day  
+
+- Event-driven architecture  
+- Idempotent processing  
+- Queue-based failure isolation  
+- Horizontal scaling roadmap  
 
 📖 Blog:  
-https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4
+https://coderraj07.medium.com/upload-csv-data-from-s3-to-postgresql-via-sqs-and-lambda-event-driven-scalable-b203b06eb3f4  
 
 🎥 Demo:  
-https://www.youtube.com/watch?v=Xrai-ccIzOQ
+https://www.youtube.com/watch?v=Xrai-ccIzOQ  
 
 ---
 
-## 🔹 CyberIntel – LLM PDF Intelligence System
+## 2️⃣ CyberIntel – LLM PDF Intelligence System
 
-- Extracts structured metrics from complex PDFs
-- Layout-aware parsing engine
-- Confidence scoring system
-- Source-of-truth tagging
-- RAG-based LLM pipeline
+- Extracts structured metrics from complex PDFs  
+- Layout-aware parsing engine  
+- Confidence scoring  
+- Source-of-truth tagging  
+- LLM-powered structured extraction  
 
-🔗 https://github.com/coderRaj07/cyber_intel
-
----
-
-## 🔹 SignalLens – AI Monitoring Tool
-
-- Website version snapshots
-- Diff detection
-- AI-generated change summaries
-- Competitive monitoring automation
-
-🔗 https://github.com/coderRaj07/signal_lens
+🔗 https://github.com/coderRaj07/cyber_intel  
+🎥 https://www.loom.com/share/60b766184301455ba6030e241aa2b318  
 
 ---
 
-## 🔹 Payment Microservices (Spring Boot)
+## 3️⃣ SignalLens – AI Competitive Monitoring
 
-- ACID-safe payment transactions
-- Service isolation
-- Modular microservice architecture
+- Website version snapshots  
+- Diff detection  
+- AI-generated summaries  
+- Competitive intelligence automation  
 
-🔗 https://github.com/coderRaj07/payment-system-microservice
+🌐 https://signal-lens-frontend.vercel.app/  
+🔗 https://github.com/coderRaj07/signal_lens  
+
+---
+
+## 4️⃣ Dataseeder – AI CLI Data Generator
+
+- Schema-driven dataset generation  
+- AI-assisted developer productivity tool  
+- LLM workflow automation  
+
+🔗 https://github.com/coderRaj07/LLM-Powered-Cli-Tool  
+🎥 https://www.youtube.com/watch?v=kfNYCkIDPiI  
+
+---
+
+## 5️⃣ Payment System Microservices
+
+**Tech:** Java, Spring Boot, PostgreSQL  
+
+- Microservice-based payment architecture  
+- ACID-safe transaction handling  
+- Service isolation  
+- Production-style modular backend  
+
+🔗 https://github.com/coderRaj07/payment-system-microservice  
+
+---
+
+## 6️⃣ Social Media Scalable Backend
+
+**Tech:** Node.js, PostgreSQL, Redis  
+
+- Optimized feed queries  
+- Redis caching layer  
+- Scalable DB schema  
+- Improved read performance  
+
+🔗 https://github.com/coderRaj07/social_media_backend  
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Backend
 
-### 🗄 Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-D92D2A?style=for-the-badge&logo=redis)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+---
 
-### 🤖 AI Stack
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+---
+
+### Cloud & DevOps
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 
 ---
 
@@ -121,23 +168,21 @@ https://www.youtube.com/watch?v=Xrai-ccIzOQ
 
 # 🧠 Engineering Philosophy
 
-> Build simple systems that scale.  
-> Understand business before writing code.  
-> Design for concurrency from day one.  
-> Debug methodically. Avoid panic.
+> Understand business before writing code  
+> Design for concurrency from day one  
+> Avoid overengineering  
+> Debug methodically  
+> Build simple systems that scale  
 
 ---
 
 # 🎯 Open To
 
-- Backend Engineering Roles
-- Distributed Systems
-- AI Infrastructure
-- Data Engineering
-- Remote UAE / Global Roles
+Backend Engineering • Distributed Systems • AI Infrastructure • Data Engineering  
+Remote / UAE / High-Scale Product Teams  
 
 ---
 
 <p align="center">
-  ⭐ If you like scalable backend systems, let's connect.
+⭐ If you build scalable systems, let's connect.
 </p>
