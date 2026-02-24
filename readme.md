@@ -82,7 +82,6 @@ AWS
 ---
 ## 🚀 Products & Systems
 
----
 
 ### Scalable AWS Ingestion Pipeline
 
