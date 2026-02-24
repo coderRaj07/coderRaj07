@@ -35,8 +35,6 @@
 
 </p>
 
-<br/>
-
 ## 🧠 What I Build
 
 I design and ship **production-grade backend systems** focused on:
