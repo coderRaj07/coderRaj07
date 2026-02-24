@@ -45,33 +45,28 @@ I design and ship **production-grade backend systems** focused on:
 - Database performance at scale  
 - AI-native pipelines (LLM + RAG + document intelligence)  
 
-### 🛠 Core Technologies
-
-NodeJS • Django • Python • JavaScript • Docker • Redis • PostgreSQL • MongoDB • AWS  
-
 I care deeply about **correctness, scalability, and business impact.**
 
 ---
-## ⚙️ Core Stack (Visual)
+## 🛠 Core Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,python,js,docker,redis,postgres,mongodb,aws" />
+<p align="center" style="line-height:1.2;">
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,python,js,docker,redis,postgres,mongodb,aws" />
+<br/>
+<sub>
+NodeJS&nbsp;&nbsp;
+Django&nbsp;&nbsp;
+Python&nbsp;&nbsp;
+JavaScript&nbsp;&nbsp;
+Docker&nbsp;&nbsp;
+Redis&nbsp;&nbsp;
+PostgreSQL&nbsp;&nbsp;
+MongoDB&nbsp;&nbsp;
+AWS
+</sub>
+
 </p>
-
-<p align="center">
-  <sub>
-    NodeJS&nbsp;&nbsp;&nbsp;
-    Django&nbsp;&nbsp;&nbsp;
-    Python&nbsp;&nbsp;&nbsp;
-    JavaScript&nbsp;&nbsp;&nbsp;
-    Docker&nbsp;&nbsp;&nbsp;
-    Redis&nbsp;&nbsp;&nbsp;
-    PostgreSQL&nbsp;&nbsp;&nbsp;
-    MongoDB&nbsp;&nbsp;&nbsp;
-    AWS
-  </sub>
-</p>
-
 ---
 
 ## 📊 GitHub Metrics
