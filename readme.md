@@ -12,8 +12,6 @@
   I design systems that scale under load and stay correct under concurrency.
 </p>
 
-<br/>
-
 <p align="center">
 
 <a href="mailto:rajendrabisoi23@gmail.com" style="text-decoration:none;">
