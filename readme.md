@@ -38,7 +38,11 @@ I design and ship **production-grade backend systems** focused on:
 - Database performance at scale  
 - AI-native pipelines (LLM + RAG + document intelligence)  
 
-I care about **correctness, scalability, and business impact.**
+### 🛠 Core Technologies
+
+NodeJS • Django • Python • JavaScript • Docker • Redis • PostgreSQL • MongoDB • AWS  
+
+I care deeply about **correctness, scalability, and business impact.**
 
 ---
 
@@ -110,10 +114,10 @@ High-read performance backend with Redis caching.
 
 ---
 
-## ⚙️ Core Stack
+## ⚙️ Core Stack (Visual)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,spring,postgres,mongodb,redis,mysql,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,python,js,docker,redis,postgres,mongodb,aws" />
 </p>
 
 ---
@@ -121,12 +125,12 @@ High-read performance backend with Redis caching.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderRaj07&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderRaj07&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderRaj07&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderRaj07&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
