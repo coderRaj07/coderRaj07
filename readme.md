@@ -72,9 +72,8 @@ AWS
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderRaj07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderRaj07&theme=transparent&hide_border=true" height="160"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderRaj07&theme=github-compact&hide_border=true"/>
 </p>
