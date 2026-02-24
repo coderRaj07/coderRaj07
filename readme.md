@@ -13,26 +13,29 @@
 </p>
 
 <p align="center">
-
-<a href="mailto:rajendrabisoi23@gmail.com" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="22" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/rajendra-bisoi" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="22" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/coderRaj07" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="22" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/coderraj07/" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="22" />
-</a>
-
+  <a href="mailto:rajendrabisoi23@gmail.com">
+    <span>
+      <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="26"/>
+    </span>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rajendra-bisoi">
+    <span>
+      <img src="https://img.icons8.com/color/48/linkedin.png" height="26"/>
+    </span>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/coderRaj07">
+    <span>
+      <img src="https://img.icons8.com/ios-glyphs/48/github.png" height="26"/>
+    </span>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/coderraj07/">
+    <span>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="26"/>
+    </span>
+  </a>
 </p>
 
 <br/>
