@@ -1,16 +1,20 @@
 <!-- ===== DYNAMIC HEADER ===== -->
 
-<h1 align="center">
+<br/>
+
+<h1 align="center" style="font-weight:600;">
   Rajendra Bisoi
 </h1>
 
-<p align="center">
- Software Engineer
+<p align="center" style="font-size:16px;">
+  Software Engineer
 </p>
 
-<p align="center">
-  Building scalable Software infrastructure & AI-native data platforms
+<p align="center" style="color: #555;">
+  Building scalable software infrastructure & AI-native data platforms
 </p>
+
+<br/>
 
 <p align="center">
   <a href="mailto:rajendrabisoi23@gmail.com">
@@ -18,19 +22,19 @@
       <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="26"/>
     </span>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/rajendra-bisoi">
     <span>
       <img src="https://img.icons8.com/color/48/linkedin.png" height="26"/>
     </span>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/coderRaj07">
     <span>
       <img src="https://img.icons8.com/ios-glyphs/48/github.png" height="26"/>
     </span>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/coderraj07/">
     <span>
       <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="26"/>
